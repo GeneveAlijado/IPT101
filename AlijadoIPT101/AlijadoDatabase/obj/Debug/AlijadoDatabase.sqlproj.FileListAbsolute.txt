@@ -1,0 +1,16 @@
+D:\AlijadoIPT101\AlijadoDatabase\bin\Debug\AlijadoDatabase.dacpac
+D:\AlijadoIPT101\AlijadoDatabase\bin\Debug\AlijadoDatabase.dll
+D:\AlijadoIPT101\AlijadoDatabase\bin\Debug\AlijadoDatabase.pdb
+D:\AlijadoIPT101\AlijadoDatabase\obj\Debug\AlijadoDatabase.sqlproj.AssemblyReference.cache
+D:\AlijadoIPT101\AlijadoDatabase\obj\Debug\AlijadoDatabase.dll
+D:\AlijadoIPT101\AlijadoDatabase\obj\Debug\AlijadoDatabase.pdb
+D:\Kupals\AlijadoIPT101\AlijadoDatabase\bin\Debug\AlijadoDatabase.dacpac
+D:\Kupals\AlijadoIPT101\AlijadoDatabase\bin\Debug\AlijadoDatabase.dll
+D:\Kupals\AlijadoIPT101\AlijadoDatabase\bin\Debug\AlijadoDatabase.pdb
+D:\Kupals\AlijadoIPT101\AlijadoDatabase\obj\Debug\AlijadoDatabase.sqlproj.AssemblyReference.cache
+D:\Kupals\AlijadoIPT101\AlijadoDatabase\obj\Debug\AlijadoDatabase.dll
+D:\Kupals\AlijadoIPT101\AlijadoDatabase\obj\Debug\AlijadoDatabase.pdb
+D:\Kupals\AlijadoIPT101\AlijadoDatabase\obj\Debug\Model.xml
+D:\Kupals\AlijadoIPT101\AlijadoDatabase\obj\Debug\refactor.xml
+D:\Kupals\AlijadoIPT101\AlijadoDatabase\obj\Debug\postdeploy.sql
+D:\Kupals\AlijadoIPT101\AlijadoDatabase\obj\Debug\predeploy.sql
